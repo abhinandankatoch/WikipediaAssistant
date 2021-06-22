@@ -1,0 +1,6 @@
+pipwin==0.5.1
+PyAudio
+pyttsx3==2.90
+pywin32==301
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
